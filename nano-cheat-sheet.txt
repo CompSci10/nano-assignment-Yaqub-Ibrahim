@@ -1,3 +1,4 @@
 Ctrl+x : exit nano
 Ctrl+w : find keywoards
 Ctrl+k : deletes a line
+Ctrl+a : moves you to the begining of the line you are currently on
