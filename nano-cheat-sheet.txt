@@ -9,4 +9,6 @@ line, despite screen width.
 -W : Treats puncuation characters as part of a word.
 -S : Enables smooth scrolling, which makes the text scroll line by line
 instead of chunk by chunk.
-Esc g : Places your cursor at a certain point.
+Esc g : Opens up a menu that you can type cordinates in to teleport your
+cursor to a certain point.
+
