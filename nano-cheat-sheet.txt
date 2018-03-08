@@ -12,3 +12,6 @@ instead of chunk by chunk.
 Esc g : Opens up a menu that you can type cordinates in to teleport your
 cursor to a certain point.
 Esc $ : Enables or disables soft wrapping of overlong lines.
+Esc l : Enables or disables hard warpping of overlong lines. Which is like
+hard wrapping, but instead of wrapping the line to make it easier to read,
+it modifies the file to force a line break (which is pressing enter).
