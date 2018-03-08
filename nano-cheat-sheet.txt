@@ -11,4 +11,4 @@ line, despite screen width.
 instead of chunk by chunk.
 Esc g : Opens up a menu that you can type cordinates in to teleport your
 cursor to a certain point.
-
+Esc $ : Enables or disables soft wrapping of overlong lines.
