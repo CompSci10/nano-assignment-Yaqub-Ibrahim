@@ -6,3 +6,4 @@ Ctrl+e : moves you to the end of the line you are currently on.
 -$ : Enables soft warpping, which makes nano displays the entire content of a
 line, despite screen width.
 -i : Indent new lines to the  previous  line's  indentation.
+-W : Treats puncuation characters as part of a word.
